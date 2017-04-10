@@ -24,7 +24,7 @@
       }
   ],
   "require": {
-    "sidus/eav-model-bundle": "dev-master",
+    "sidus/eav-model-bundle": "dev-configureable",
 
     "samson/autocomplete-bundle": "~2.0.3",
     "pinano/select2-bundle": "~3.5.2",
